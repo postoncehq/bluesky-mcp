@@ -1,0 +1,23 @@
+{
+  "name": "bluesky-mcp",
+  "version": "0.1.0",
+  "description": "Bluesky MCP server and skills: write, publish and schedule Bluesky posts with images and video through Bluesky's official API (the AT Protocol), via PostOnce.",
+  "author": {
+    "name": "PostOnce"
+  },
+  "homepage": "https://github.com/postoncehq/bluesky-mcp",
+  "skills": "./skills/",
+  "mcpServers": "./codex.mcp.json",
+  "interface": {
+    "displayName": "Bluesky MCP",
+    "shortDescription": "Write, publish and schedule Bluesky posts.",
+    "longDescription": "Post writing, bio, custom domain handle and content calendar skills for Bluesky, publishing through PostOnce to Bluesky and every other connected platform. Publishing goes through Bluesky's official API (the AT Protocol), via PostOnce.",
+    "developerName": "PostOnce",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": "Write a Bluesky post about this release with the link and post it now."
+  }
+}

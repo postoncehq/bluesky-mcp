@@ -1,0 +1,19 @@
+{
+  "name": "bluesky-mcp",
+  "version": "0.1.0",
+  "description": "Bluesky MCP server and skills: write, publish and schedule Bluesky posts with images and video through Bluesky's official API (the AT Protocol), via PostOnce.",
+  "author": {
+    "name": "PostOnce",
+    "url": "https://postonce.to"
+  },
+  "homepage": "https://github.com/postoncehq/bluesky-mcp",
+  "repository": "https://github.com/postoncehq/bluesky-mcp",
+  "license": "MIT",
+  "keywords": [
+    "bluesky",
+    "bluesky-mcp",
+    "mcp",
+    "social-media",
+    "postonce"
+  ]
+}
