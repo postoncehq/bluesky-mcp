@@ -14,6 +14,8 @@ Claude: Drafted it with the bluesky-post-writer skill: 262 characters, the
         Published on PostOnce to @acme.dev. Here's the live link.
 ```
 
+Full setup guide with examples: [postonce.to/mcp/bluesky](https://postonce.to/mcp/bluesky)
+
 ## What you can do
 
 | Ask your agent to | How it works |
